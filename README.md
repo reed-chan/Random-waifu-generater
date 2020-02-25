@@ -1,2 +1,2 @@
 # Random-waifu-generater
-redirect
+redirect to [https://github.com/reed-overflow/Random-waifu-generater](https://github.com/reed-overflow/Random-waifu-generater) 
