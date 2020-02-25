@@ -1,0 +1,2 @@
+# Random-waifu-generater
+redirect
